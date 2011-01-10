@@ -1,0 +1,5 @@
+Firefox Black Box
+
+The start of a simple Firefox extension that pushes back load times for pages matching a certain pattern.
+
+* Preferences are not fully implemented

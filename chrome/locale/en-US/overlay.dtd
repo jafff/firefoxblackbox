@@ -1,0 +1,8 @@
+<!ENTITY firefoxblackbox.label "Your localized menuitem">
+<!ENTITY firefoxblackboxContext.label "Your Menuitem">
+<!ENTITY firefoxblackboxContext.accesskey "Y">
+<!ENTITY firefoxblackboxToolbarButton.label "Your Toolbar Button">
+<!ENTITY firefoxblackboxToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY firefoxblackboxSidebar.label "Your Sidebar">
+<!ENTITY firefoxblackboxToolbar.name  "example">
+<!ENTITY firefoxblackboxToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &firefoxblackboxToolbar.name;">

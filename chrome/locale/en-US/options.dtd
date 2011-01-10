@@ -1,0 +1,4 @@
+<!ENTITY prefwindow.title "Firefox Black Box preferences">
+<!ENTITY pane1.title "Firefox Black Box preferences">
+<!ENTITY urlPattern.label "Regular expression to match against the URL">
+<!ENTITY urlPattern.accesskey "S">
